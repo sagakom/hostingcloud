@@ -17,10 +17,8 @@ products:
     text: Hosting Cloud Host 2GB
 values:
   heading: Nilai Kami
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >
+    We provide a 99.99% uptime SLA. If we fail to deliver, we’ll credit you for
+    the amount of time that service was unavailable.
 ---
 
