@@ -6,12 +6,10 @@ blurb:
   heading: Hosting Cloud 20x Faster
   text: Hosting Cloud 20x Faster
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Produk Hosting Cloud Kami
+  text: |-
+    Simple. Cepat. Efektif. 
+    Motto hosting cloud kami yang berkelas dunia.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -27,7 +25,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Nilai Kami
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
