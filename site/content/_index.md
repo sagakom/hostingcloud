@@ -14,7 +14,7 @@ products:
   - image: img/vps.png
     text: Hosting Cloud Host 1GB
   - image: img/vps.png
-    text: Hosting Cloud Host 1GB
+    text: Hosting Cloud Host 2GB
 values:
   heading: Nilai Kami
   text: >-
