@@ -1,7 +1,6 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: Cloud Hosting Kami
+image: img/cloud-hosting-terbaik.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
