@@ -4,7 +4,9 @@ subtitle: Enjoy Fast Web
 image: img/cloud-hosting-bg.png
 blurb:
   heading: Hosting Cloud 20x Faster
-  text: Hosting Cloud 20x Faster
+  text: |-
+    Hosting Cloud 20x Faster
+    +6285851175418
 intro:
   heading: Produk Hosting Cloud Kami
   text: |-
