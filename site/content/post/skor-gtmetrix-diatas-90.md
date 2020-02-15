@@ -6,4 +6,8 @@ description: |-
   Dengan akses yang cepat web akan mudah terindex di Google.
 image: img/2020-02-16_064257.jpg
 ---
-*GTmetrix*is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow,*GTmetrix*generates scores for your pages and offers ...
+*GTmetrix*is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow,*GTmetrix*generates scores for your pages and offers 
+
+
+
+**[Skor web kami ](https://gtmetrix.com/reports/hostingcloud.host/XkG2tnXE)**
