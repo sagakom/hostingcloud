@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: Kontak
 logo: img/default.png
 contact_entries:
-  - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
+  - heading: Working Space
+    text: 'Sekapuk, Jl S Parman 23 Ujungpangkah Gresik 61154'
   - heading: Working hours
     text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
