@@ -1,6 +1,6 @@
 ---
 title: Kontak
-logo: img/default.png
+logo: img/cover.png
 contact_entries:
   - heading: Working Space
     text: 'Sekapuk, Jl S Parman 23 Ujungpangkah Gresik 61154'
