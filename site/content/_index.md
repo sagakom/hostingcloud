@@ -1,7 +1,7 @@
 ---
 title: 20x Fast Hosting Cloud
 subtitle: Enjoy Fast Web
-image: /img/home-jumbotron.jpg
+image: img/cloud-hosting-bg.png
 blurb:
   heading: Hosting Cloud 20x Faster
   text: Hosting Cloud 20x Faster
