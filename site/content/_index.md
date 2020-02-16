@@ -19,7 +19,7 @@ products:
   - image: img/vps.png
     text: Hosting Cloud Host 2GB
 values:
-  heading: Dediaksi Kami
+  heading: Dedikasi Kami
   text: >
     Dedikasi kami pada web adalah passion. Kami bekerja karena cinta. Hobbyists.
     Kami suka dengan website dan perkembangannya.
