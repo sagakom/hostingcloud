@@ -58,26 +58,26 @@ pricing:
   heading: Monthly subscriptions
   description: 20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Sempurna untuk pelaku usaha pemula
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Size 1GB
+        - Unlimited bandwith
+        - Unlimited domain
+      plan: Bronze
+      price: '1.99'
+    - description: Luar biasa untuk pelaku usaha menengah
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Size 10GB
+        - Unlimited bandwith
+        - Unlimited domain
+      plan: Golden
+      price: '5.99'
+    - description: Bikin usaha hosting sendiri?
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Waralaba
+        - Unlimited profit
+      plan: Platinum
       price: '?'
 ---
 
