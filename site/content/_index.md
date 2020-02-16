@@ -12,7 +12,8 @@ intro:
   heading: Produk Hosting Cloud Kami
   text: |
     Simple. Cepat. Efektif. 
-    Motto hosting cloud kami yang berkelas dunia.+6285851175418
+    Motto hosting cloud kami yang berkelas dunia.
+    Call only +6285851175418
 products:
   - image: img/vps.png
     text: Hosting Cloud Host 1GB
