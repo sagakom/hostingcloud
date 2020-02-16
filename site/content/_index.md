@@ -6,7 +6,6 @@ blurb:
   heading: Hosting Cloud 20x Faster
   text: |-
     Hosting Cloud 20x Faster
-    +6285851175418
     Telegram @coachtrader
 intro:
   heading: Produk Hosting Cloud Kami
