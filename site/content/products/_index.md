@@ -55,7 +55,7 @@ testimonials:
     quote: 20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Langganan Bulanan
   description: 20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
   plans:
     - description: Sempurna untuk pelaku usaha pemula
