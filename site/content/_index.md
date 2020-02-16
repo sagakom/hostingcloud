@@ -21,7 +21,7 @@ products:
 values:
   heading: Nilai Kami
   text: >
-    We provide a 99.99% uptime SLA. If we fail to deliver, we’ll credit you for
-    the amount of time that service was unavailable.
+    Dedikasi kami pada web adalah passion. Kami bekerja karena cinta. Hobbyists.
+    Kami suka dengan website dan perkembangannya.
 ---
 
