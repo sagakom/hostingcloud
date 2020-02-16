@@ -15,4 +15,4 @@ Silakan kontak kami untuk info lebih lanjut
 
 **[Telegram Instan Kontak ](https://t.me/coachtrader)**
 
-![](img/telegram kontak.png)
+![](img/telegram kontak.png "Coachtrader")
