@@ -3,10 +3,8 @@ title: Cloud Hosting Kami
 image: img/cloud-hosting-terbaik.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Hostingcloud.host solusi eksis dan branding di internet, murah cepat,
+  affordable.
 intro:
   blurbs:
     - image: img/hosting icon.png
@@ -37,11 +35,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: Tawaran Hosting Cloud Kami
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: HSC adalah solusi puncak kecepatan website Anda dengan teknologi terkini.
 main:
   heading: Hosting Cepat 20x
   description: >
