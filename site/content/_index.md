@@ -14,8 +14,6 @@ intro:
 
     Motto hosting cloud kami yang berkelas dunia.
 
-    Call only +6285851175418.
-
 
     Web hosting HSC hadir dengan layanan lengkap yang akan memastikan kemudahan
     Anda. Kini server terbaik dengan harga termurah di kelasnya dan bantuan
