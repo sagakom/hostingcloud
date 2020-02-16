@@ -31,5 +31,9 @@ values:
   text: >
     Dedikasi kami pada web adalah passion. Kami bekerja karena cinta. Hobbyists.
     Kami suka dengan website dan perkembangannya.
+
+    Web hosting HSC hadir dengan layanan lengkap yang akan memastikan kemudahan
+    Anda. Kini server terbaik dengan harga termurah di kelasnya dan bantuan
+    support 24 jam siap membantu website Anda untuk terus online.
 ---
 
