@@ -29,6 +29,8 @@ products:
 values:
   heading: Values
   text: >
+    More Cheaper. More Secure. 
+
     Dedikasi kami pada web adalah passion. Kami bekerja karena cinta. Hobbyists.
     Kami suka dengan website dan perkembangannya.
 
