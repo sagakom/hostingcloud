@@ -14,3 +14,5 @@ We’d love to get in touch with you and hear your ideas and questions. We striv
 Silakan kontak kami untuk info lebih lanjut
 
 **[Telegram Instan Kontak ](https://t.me/coachtrader)**
+
+![](img/telegram kontak.png)
