@@ -35,7 +35,12 @@ intro:
   description: HSC adalah solusi puncak kecepatan website Anda dengan teknologi terkini.
 main:
   heading: Hosting Cepat 20x
-  description: 20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
+  description: >-
+    20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
+
+    Web hosting HSC hadir dengan layanan lengkap yang akan memastikan kemudahan
+    Anda. Kini server terbaik dengan harga termurah di kelasnya dan bantuan
+    support 24 jam siap membantu website Anda untuk terus online.
   image1:
     alt: 20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
     image: img/cloud-hosting-bg.png
@@ -53,7 +58,11 @@ testimonials:
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Langganan Bulanan
-  description: 20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.
+  description: >-
+    20x lebih cepat dari web biasa dengan dukungan server cloud kelas dunia.Web
+    hosting HSC hadir dengan layanan lengkap yang akan memastikan kemudahan
+    Anda. Kini server terbaik dengan harga termurah di kelasnya dan bantuan
+    support 24 jam siap membantu website Anda untuk terus online.
   plans:
     - description: Sempurna untuk pelaku usaha pemula
       items:
