@@ -10,10 +10,17 @@ blurb:
     Telegram @coachtrader
 intro:
   heading: Produk Hosting Cloud Kami
-  text: |
+  text: >
     Simple. Cepat. Efektif. 
+
     Motto hosting cloud kami yang berkelas dunia.
-    Call only +6285851175418
+
+    Call only +6285851175418.
+
+
+    Web hosting HSC hadir dengan layanan lengkap yang akan memastikan kemudahan
+    Anda. Kini server terbaik dengan harga termurah di kelasnya dan bantuan
+    support 24 jam siap membantu website Anda untuk terus online.
 products:
   - image: img/vps.png
     text: Hosting Cloud Host 1GB
